@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and testing
+.pytest_cache/
+.coverage
+htmlcov/
+*.cache
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+*.lnk
+.idea/
+.vscode/
+*.swp
+*~
+
+# Exported files / user output
+*.pdf
+output/
+exports/
+
+# User projects and assets
+packs/
+
